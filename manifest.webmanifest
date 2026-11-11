@@ -1,0 +1,16 @@
+{
+  "name": "SlipLedger",
+  "short_name": "SlipLedger",
+  "description": "Photograph purchase and sales slips; get registers, stock and Tally export.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F7F5",
+  "theme_color": "#1F5FBF",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
